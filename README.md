@@ -1,5 +1,7 @@
 # Discord Bot for Economy, Gambling, and Games
 
+## Submission for the Coding Commons Hackathon 2025
+
 ### User Commands:
 - **`/help`**  
   displays all commands
