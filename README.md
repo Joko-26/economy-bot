@@ -28,7 +28,7 @@
 
 ### Installation:
 1. Use the link:  
-  <coming soon> 
+  coming soon
    to add the bot to your server.
 2. Run `/help` to see all commands and start interacting.
 
