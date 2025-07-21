@@ -28,7 +28,7 @@
 
 ### Installation:
 1. Use the link:  
-   https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID_HERE&scope=bot+applications.commands&permissions=274877975552  
+  <coming soon> 
    to add the bot to your server.
 2. Run `/help` to see all commands and start interacting.
 
