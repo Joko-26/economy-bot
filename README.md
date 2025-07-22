@@ -28,7 +28,7 @@
 
 ### Installation:
 1. Use the link:  
-  coming soon
+  https://discord.com/oauth2/authorize?client_id=1395827549615165500 to install it on your server
 2. Run `/help` to see all commands and start interacting.
 
 ----
