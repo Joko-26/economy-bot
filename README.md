@@ -28,8 +28,7 @@
 
 ### Installation:
 1. Use the link:  
-   https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID_HERE&scope=bot+applications.commands&permissions=274877975552  
-   to add the bot to your server.
+  coming soon
 2. Run `/help` to see all commands and start interacting.
 
 ----
@@ -41,6 +40,7 @@
    1. In the installation tab match these settings:  
       ![alt text](image.png)  
       Use the provided link to install the bot (**NOTE: the bot only works if you add the bot to servers while it’s running**)
+    2. in the bot tab the `Server Members Intent` and the `Message Content Intent` need to be active
 3. Create a `.env` file at the root of the project and fill in:  
    `DISCORD_TOKEN=your-bot-token` (found in the Bot tab in the Discord Developer Portal)  
    `DISCORD_CLIENT_ID=your-bot-client-id` (found in the General Information tab)
