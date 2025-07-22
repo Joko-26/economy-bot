@@ -28,7 +28,11 @@
 
 ### Installation:
 1. Use the link:  
+<<<<<<< HEAD
   coming soon
+=======
+   coming soon
+>>>>>>> ad52891bdb3c99d6ad8d0b5fc9516647b10de252
 2. Run `/help` to see all commands and start interacting.
 
 ----
